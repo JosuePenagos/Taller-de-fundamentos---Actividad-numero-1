@@ -1,1 +1,1 @@
-
+Elegí el 50% como punto de corte porque me pareció la pregunta más honesta que podíamos hacernos: ¿más de la mitad de mis usuarios pueden usar la app o no? Y cuando busque los números reales, la diferencia me sorprendió: iOS 18 ya está en el 82% de todos los iPhones activos, mientras que Android 15 apenas llegó al 30% al cierre de 2025. Con esos datos, no podíamos ignorar que lanzar en Android significaba que 7 de cada 10 usuarios posiblemente no podrían usar la app completa, y eso para nosotros era un problema demasiado grande como para ignorarlo.
