@@ -1,1 +1,1 @@
-
+me di cuenta de que no tenía sentido recomendar lo mismo a todo el mundo, porque las personas buscan cosas muy distintas en su celular. Hay quienes eligen Android porque quieren controlar todo su teléfono a su manera, y hay quienes eligen iPhone porque simplemente quieren que funcione perfecto sin sorpresas. Entonces decidimos armar perfiles de usuario porque creemos que una buena recomendación parte de entender a la persona, no de asumir que todos quieren lo mismo.
