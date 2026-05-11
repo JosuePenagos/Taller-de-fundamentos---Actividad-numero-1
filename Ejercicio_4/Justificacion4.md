@@ -1,1 +1,1 @@
-
+Cuando una empresa grande le entrega un celular a su empleado, no quiere que ese celular pueda instalarse apps de cualquier lado. Es como darle una llave de la oficina a alguien: quieres que esa llave solo abra las puertas que tú decides, no todas las puertas del mundo. iOS es preferido en entornos corporativos precisamente porque no permite instalar apps fuera de su tienda oficial, a diferencia de Android, donde las tiendas externas y la instalación manual de apps abren la puerta a virus y malware.
