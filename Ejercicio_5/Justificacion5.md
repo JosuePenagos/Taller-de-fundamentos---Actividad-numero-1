@@ -1,1 +1,1 @@
-
+decidi comparar con una lista concreta de funciones. Lo que encontramos fue que Gemini le lleva ventaja a Siri en cosas como traducir en tiempo real y generar contenido, pero Apple Intelligence hace el 95% de su trabajo directamente en el teléfono, sin mandar tus datos a ningún servidor, en otras palabras no hay un ganador claro, cada uno es bueno en tareas distintas
